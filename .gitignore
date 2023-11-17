@@ -1,0 +1,9 @@
+config.py 
+bbdd = "posgres"
+main.py
+
+import config
+
+
+
+print (bbdd)
